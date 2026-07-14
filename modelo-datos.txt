@@ -1,0 +1,13 @@
+Causa
+id
+titulo
+descripcion
+fecha
+(La entidad Causa sirve para registrar el objetivo de la iniciativa ciudadana)
+
+Apoyo
+id
+causa_id
+nombre
+fecha
+(La entidad Apoyo sirve para relacionar a un ciudadano con una causa específica)

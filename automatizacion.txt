@@ -1,0 +1,3 @@
+Evento: Nueva causa registrada en la plataforma.
+Mensaje enviado: "Se ha registrado una nueva causa en la plataforma. ¡Revisa los detalles para brindar tu apoyo!"
+Información sensible no enviada: Cédulas, números de teléfono, direcciones físicas, datos personales sensibles.
